@@ -1,5 +1,5 @@
 {
-  "name": "openzeppelin-solidity",
+  "name": "@thinkincoin/contracts-upgradeable",
   "description": "Secure Smart Contract library for Solidity",
   "version": "4.9.3",
   "files": [
