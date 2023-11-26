@@ -1,6 +1,6 @@
 {
   "name": "@thinkincoin/contracts-upgradeable",
-  "description": "Secure Smart Contract library for Solidity",
+  "description": "Secure Smart Contract library for Solidity.",
   "version": "4.9.3",
   "files": [
     "/contracts/**/*.sol",
